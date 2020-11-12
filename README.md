@@ -1,4 +1,4 @@
-# The Tech enthusiast Resource-Pack-:smile:
+# The Tech Enthusiast Resource-Pack-:smile:
 This Resource Pack comes with ethical hacking and unethical eBooks and other things such as programming Anarchism to Survival books to lock picking it also comes with a collection of Kevin mitnick books most of the eBook are the hacking for dummies , programming for dummies etc it also comes with books like how to build your network aka networking and Linux books and more my resource pack contains about 2,780 files Still Adding More I hope you enjoy!!!!
 
 
@@ -14,7 +14,7 @@ You Dont Want To Download it I can Make That Easy For You
 
 If You Clone Into It You Only Get Half As Im Still Uploading Files etc:smile:
 
-git clone https://github.com/codereveryday/Coder-Everyday-Resource-Pack-
+git clone https://github.com/codereveryday/The-Tech-Enthusiast-Resource-Pack-
 
 Linux,Mac,Windows 
 
