@@ -1,4 +1,4 @@
-# Coder-Everyday-Resource-Pack-:smile:
+# The Tech enthusiast Resource-Pack-:smile:
 This Resource Pack comes with ethical hacking and unethical eBooks and other things such as programming Anarchism to Survival books to lock picking it also comes with a collection of Kevin mitnick books most of the eBook are the hacking for dummies , programming for dummies etc it also comes with books like how to build your network aka networking and Linux books and more my resource pack contains about 2,780 files Still Adding More I hope you enjoy!!!!
 
 
@@ -19,11 +19,6 @@ git clone https://github.com/codereveryday/Coder-Everyday-Resource-Pack-
 Linux,Mac,Windows 
 
 
-# Come Join My Server 
-
-If You Got Questions Come Join My server  Just Chill And Talk About Tech Or Anything!!!!
-
-https://discord.gg/ded3sz7
 
 
 Also Go Check out My Program JGE Its a Lazy Script Alt 
