@@ -14,7 +14,7 @@ You Dont Want To Download it I can Make That Easy For You
 
 If You Clone Into It You Only Get Half As Im Still Uploading Files etc:smile:
 
-git clone https://github.com/codereveryday/The-Tech-Enthusiast-Resource-Pack-
+git clone https://github.com/codereveryday/The-Hacker-Resource-Pack
 
 Linux,Mac,Windows 
 
